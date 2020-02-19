@@ -1,6 +1,6 @@
 {
     "server": {
-        "port": 1337,
+        "port": 8083,
         "version": "1.0.8",
         "update": true,
         "link": "https://legendmod.ml/ExampleScripts/agario-bots2/config.json"		
